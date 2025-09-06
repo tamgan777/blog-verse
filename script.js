@@ -1,1 +1,19 @@
-consol
+console.log("Hello, World! this is git baba");
+let baba="git baba";
+let baba_age=19;
+let baba_drinks=false;
+let baba_is;
+console.log(baba);
+console.log(typeof baba);
+console.log(typeof baba_age);
+console.log(typeof baba_drinks);
+console.log(typeof baba_is);
+let babaarr=[1,2,3,4,5];
+console.log(babaarr);
+console.log(typeof babaarr);
+console.log(babaarr[2]);
+let babaobj={name:"git baba",age:19,drinks:false};
+console.log(babaobj);
+console.log(typeof babaobj);
+console.log(babaobj.name);
+console.log(babaobj["age"]);
